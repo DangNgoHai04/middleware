@@ -37,3 +37,6 @@
 [submodule "3rdparty/openssl/openssl"]
 	path = 3rdparty/openssl/openssl
 	url = https://github.com/DangNgoHai04/openssl.git
+[submodule "3rdparty/openssl3.0/openssl"]
+	path = 3rdparty/openssl3.0/openssl
+	url = https://github.com/DangNgoHai04/openssl.git
