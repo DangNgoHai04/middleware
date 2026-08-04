@@ -46,3 +46,6 @@
 [submodule "3rdparty/uv/uv"]
 	path = 3rdparty/uv/uv
 	url = https://github.com/DangNgoHai04/uv.git
+[submodule "3rdparty/zlib/zlib"]
+	path = 3rdparty/zlib/zlib
+	url = https://github.com/DangNgoHai04/zlib.git
