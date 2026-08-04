@@ -19,3 +19,6 @@
 [submodule "3rdparty/libwebsockets/libwebsockets"]
 	path = 3rdparty/libwebsockets/libwebsockets
 	url = https://github.com/DangNgoHai04/libwebsockets.git
+[submodule "3rdparty/live/live555"]
+	path = 3rdparty/live/live555
+	url = https://github.com/DangNgoHai04/live555.git
