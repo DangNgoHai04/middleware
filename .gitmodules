@@ -22,3 +22,6 @@
 [submodule "3rdparty/live/live555"]
 	path = 3rdparty/live/live555
 	url = https://github.com/DangNgoHai04/live555.git
+[submodule "3rdparty/miniz/miniz"]
+	path = 3rdparty/miniz/miniz
+	url = https://github.com/DangNgoHai04/miniz.git
