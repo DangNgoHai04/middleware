@@ -13,3 +13,6 @@
 [submodule "3rdparty/glog/glog"]
 	path = 3rdparty/glog/glog
 	url = https://github.com/DangNgoHai04/glog.git
+[submodule "3rdparty/json-c/json-c"]
+	path = 3rdparty/json-c/json-c
+	url = https://github.com/DangNgoHai04/json-c.git
