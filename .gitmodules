@@ -34,3 +34,6 @@
 [submodule "3rdparty/opencv4.5/opencv"]
 	path = 3rdparty/opencv4.5/opencv
 	url = https://github.com/DangNgoHai04/opencv.git
+[submodule "3rdparty/openssl/openssl"]
+	path = 3rdparty/openssl/openssl
+	url = https://github.com/DangNgoHai04/openssl.git
