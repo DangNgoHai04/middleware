@@ -4,3 +4,6 @@
 [submodule "3rdparty/curl/curl"]
 	path = 3rdparty/curl/curl
 	url = https://github.com/DangNgoHai04/curl.git
+[submodule "3rdparty/ffmpeg/ffmpeg"]
+	path = 3rdparty/ffmpeg/ffmpeg
+	url = https://github.com/DangNgoHai04/ffmpeg.git
