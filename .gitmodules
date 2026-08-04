@@ -7,3 +7,6 @@
 [submodule "3rdparty/ffmpeg/ffmpeg"]
 	path = 3rdparty/ffmpeg/ffmpeg
 	url = https://github.com/DangNgoHai04/ffmpeg.git
+[submodule "3rdparty/flatbuffers/flatbuffers"]
+	path = 3rdparty/flatbuffers/flatbuffers
+	url = https://github.com/DangNgoHai04/flatbuffers.git
