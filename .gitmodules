@@ -43,3 +43,6 @@
 [submodule "3rdparty/sqlite/sqlite"]
 	path = 3rdparty/sqlite/sqlite
 	url = https://github.com/DangNgoHai04/sqlite.git
+[submodule "3rdparty/uv/uv"]
+	path = 3rdparty/uv/uv
+	url = https://github.com/DangNgoHai04/uv.git
