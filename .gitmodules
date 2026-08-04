@@ -16,3 +16,6 @@
 [submodule "3rdparty/json-c/json-c"]
 	path = 3rdparty/json-c/json-c
 	url = https://github.com/DangNgoHai04/json-c.git
+[submodule "3rdparty/libwebsockets/libwebsockets"]
+	path = 3rdparty/libwebsockets/libwebsockets
+	url = https://github.com/DangNgoHai04/libwebsockets.git
