@@ -1,0 +1,3 @@
+[submodule "3rdparty/alsa_lib/alsa-lib"]
+	path = 3rdparty/alsa_lib/alsa-lib
+	url = https://github.com/DangNgoHai04/alsa-lib.git
