@@ -49,3 +49,6 @@
 [submodule "3rdparty/zlib/zlib"]
 	path = 3rdparty/zlib/zlib
 	url = https://github.com/DangNgoHai04/zlib.git
+[submodule "component/isp"]
+	path = component/isp
+	url = https://github.com/DangNgoHai04/SensorSupportList
