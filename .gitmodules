@@ -40,3 +40,6 @@
 [submodule "3rdparty/openssl3.0/openssl"]
 	path = 3rdparty/openssl3.0/openssl
 	url = https://github.com/DangNgoHai04/openssl.git
+[submodule "3rdparty/sqlite/sqlite"]
+	path = 3rdparty/sqlite/sqlite
+	url = https://github.com/DangNgoHai04/sqlite.git
