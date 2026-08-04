@@ -25,3 +25,6 @@
 [submodule "3rdparty/miniz/miniz"]
 	path = 3rdparty/miniz/miniz
 	url = https://github.com/DangNgoHai04/miniz.git
+[submodule "3rdparty/nanomsg/nanomsg"]
+	path = 3rdparty/nanomsg/nanomsg
+	url = https://github.com/DangNgoHai04/nanomsg.git
