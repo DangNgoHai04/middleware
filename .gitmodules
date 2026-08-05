@@ -52,3 +52,9 @@
 [submodule "component/isp"]
 	path = component/isp
 	url = https://github.com/DangNgoHai04/SensorSupportList
+[submodule "modules/bin/json-c"]
+	path = modules/bin/json-c
+	url = https://github.com/DangNgoHai04/json-c.git
+[submodule "modules/bin/miniz"]
+	path = modules/bin/miniz
+	url = https://github.com/DangNgoHai04/miniz.git
