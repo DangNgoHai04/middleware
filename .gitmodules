@@ -58,3 +58,6 @@
 [submodule "modules/bin/miniz"]
 	path = modules/bin/miniz
 	url = https://github.com/DangNgoHai04/miniz.git
+[submodule "sample/kvm_stream"]
+	path = sample/kvm_stream
+	url = https://github.com/DangNgoHai04/streameye.git
