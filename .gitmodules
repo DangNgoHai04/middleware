@@ -61,3 +61,7 @@
 [submodule "sample/test_mmf/media_server-1.0.x"]
 	path = sample/test_mmf/media_server-1.0.x
 	url = https://github.com/DangNgoHai04/ireader.git
+[submodule "3rdparty/alsa_lib/alsa_lib"]
+	path = 3rdparty/alsa_lib/alsa_lib
+	url = https://github.com/DangNgoHai04/alsa-lib.git
+	branch = 3rd
