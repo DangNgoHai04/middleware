@@ -6,16 +6,8 @@
 *.dep
 *.dwo
 
+bin
 
-/lib
-/bin
-/include
-
-
-!/lib/3rd/
-!/lib/3rd/**
-!/include/
-!/include/**
 
 tags
 
