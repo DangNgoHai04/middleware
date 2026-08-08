@@ -6,11 +6,17 @@
 *.dep
 *.dwo
 
+
 /lib
 /bin
 /include
+
+
 !/lib/3rd/
 !/lib/3rd/**
+!/include/
+!/include/**
+
 tags
 
 *_asan
