@@ -6,9 +6,11 @@
 *.dep
 *.dwo
 
-lib
-bin
-include
+/lib
+/bin
+/include
+!/lib/3rd/
+!/lib/3rd/**
 tags
 
 *_asan
